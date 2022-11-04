@@ -1,3 +1,3 @@
-module github.com/kristiyanyanchev/CryptoStockAccounts
+module cryptostocksaccounts
 
-go 1.13
+go 1.19
