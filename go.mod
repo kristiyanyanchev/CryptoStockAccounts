@@ -1,3 +1,3 @@
-module example.com/m/v2
+module github.com/kristiyanyanchev/CryptoStockAccounts
 
 go 1.13
